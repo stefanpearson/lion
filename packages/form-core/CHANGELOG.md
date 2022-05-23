@@ -1,5 +1,17 @@
 # Change Log
 
+## 0.18.0
+
+### Minor Changes
+
+- 33fd1bef: remove name property check on lion field for forward compatibility with Form participation api
+
+### Patch Changes
+
+- 96a24c4a: add common uuid helper and remove separate implementations
+- Updated dependencies [96a24c4a]
+  - @lion/helpers@0.12.0
+
 ## 0.17.1
 
 ### Patch Changes

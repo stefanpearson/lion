@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.20.2
+
+### Patch Changes
+
+- 05e17d69: Checkbox indeterminate now properly handles disabled states on child checkboxes.
+- Updated dependencies [33fd1bef]
+- Updated dependencies [96a24c4a]
+  - @lion/form-core@0.18.0
+  - @lion/input@0.17.1
+
 ## 0.20.1
 
 ### Patch Changes

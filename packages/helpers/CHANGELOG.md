@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.12.0
+
+### Minor Changes
+
+- 96a24c4a: add common uuid helper and remove separate implementations
+
 ## 0.11.0
 
 ### Minor Changes

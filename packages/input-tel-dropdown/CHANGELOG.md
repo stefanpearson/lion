@@ -1,5 +1,16 @@
 # @lion/input-tel-dropdown
 
+## 0.1.3
+
+### Patch Changes
+
+- 01fd0d20: Add optgroups when preferredCountries are shown
+- 710e7c3d: Do not sync regionCode from input to dropdown if the countryCode didn't change
+- 710e7c3d: Only focus input on dropdownValue change if dropdown was opened. Otherwise it blocks user from use type ahead on the dropdown.
+- Updated dependencies [d382887e]
+- Updated dependencies [01fd0d20]
+  - @lion/input-tel@0.1.3
+
 ## 0.1.2
 
 ### Patch Changes

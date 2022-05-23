@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.10.1
+
+### Patch Changes
+
+- f78cad3c: Set noTypeAhead to true
+- Updated dependencies [33fd1bef]
+- Updated dependencies [96a24c4a]
+  - @lion/form-core@0.18.0
+  - @lion/listbox@0.13.2
+
 ## 0.10.0
 
 ### Minor Changes

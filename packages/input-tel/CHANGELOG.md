@@ -1,5 +1,16 @@
 # @lion/input-tel
 
+## 0.1.3
+
+### Patch Changes
+
+- d382887e: Make use of awsome-phonenumber, remove local copy
+- 01fd0d20: Export formatPhoneNumber
+- Updated dependencies [33fd1bef]
+- Updated dependencies [96a24c4a]
+  - @lion/form-core@0.18.0
+  - @lion/input@0.17.1
+
 ## 0.1.2
 
 ### Patch Changes

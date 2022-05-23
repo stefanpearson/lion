@@ -1,5 +1,15 @@
 # @lion/listbox
 
+## 0.13.2
+
+### Patch Changes
+
+- 96a24c4a: add common uuid helper and remove separate implementations
+- Updated dependencies [33fd1bef]
+- Updated dependencies [96a24c4a]
+  - @lion/form-core@0.18.0
+  - @lion/helpers@0.12.0
+
 ## 0.13.1
 
 ### Patch Changes

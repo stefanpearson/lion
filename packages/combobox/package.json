@@ -1,6 +1,6 @@
 {
   "name": "@lion/combobox",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "A widget made up of a single-line textbox and an associated pop-up listbox element",
   "license": "MIT",
   "author": "ing-bank",
@@ -46,8 +46,8 @@
   ],
   "dependencies": {
     "@lion/core": "^0.22.0",
-    "@lion/form-core": "^0.17.0",
-    "@lion/listbox": "^0.13.0",
+    "@lion/form-core": "^0.18.0",
+    "@lion/listbox": "^0.13.2",
     "@lion/overlays": "^0.32.0"
   },
   "keywords": [
